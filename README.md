@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225230044
+# Name: DEEPAK V
+# Date: 24-11-2026
 
 
 # AIM:
@@ -42,7 +42,7 @@ Specifying the context and requirements of a system
 
 
 
-
+<img width="1100" height="887" alt="image" src="https://github.com/user-attachments/assets/e4b4d073-8c00-4674-99ce-043df20c6cb5" />
 
 
 
